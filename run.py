@@ -31,7 +31,7 @@ def create_film():
             'title': request.form['title'],
             'description': request.form['description'],
             'director': request.form['director'],
-            'image_url': request.form['image_url'],
+            'image': request.form['image'],
             'genre': request.form['genre']
         })
         return redirect(url_for('index'))
@@ -53,7 +53,7 @@ def update_film(film_id):
             '$set': {
                 'title': request.form['title'],
                 'description': request.form['description'],
-                'image_url': request.form['image_url'],
+                'image': request.form['image'],
                 'director': request.form['director'],
                 'genre': request.form['genre'],
             }

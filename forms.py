@@ -5,7 +5,7 @@ from wtforms.validators import DataRequired, Length
 
 class CreateFilmForm(FlaskForm):
     title = StringField('Title', validators=[DataRequired()])
-    image_url = StringField('Image URL', validators=[DataRequired()])
+    image = StringField('Image URL', validators=[DataRequired()])
     description = TextAreaField('Description', validators=[DataRequired()])
     director = StringField('Director', validators=[DataRequired()])
     genre = StringField('Genre', validators=[DataRequired()])
@@ -14,7 +14,7 @@ class CreateFilmForm(FlaskForm):
 
 class UpdateFilmForm(FlaskForm):
     title = StringField('Title', validators=[DataRequired()])
-    image_url = StringField('Image URL', validators=[DataRequired()])
+    image = StringField('Image URL', validators=[DataRequired()])
     description = TextAreaField('Description', validators=[DataRequired()])
     director = StringField('Director', validators=[DataRequired()])
     genre = StringField('Genre', validators=[DataRequired()])

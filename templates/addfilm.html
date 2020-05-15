@@ -35,9 +35,9 @@
                 </p>
      
         <p>
-            {{ form.image_url.label }}<br>
-            {{ form.image_url(size=120) }}<br>
-            {%  for error in form.image_url.errors %}
+            {{ form.image.label }}<br>
+            {{ form.image(size=120) }}<br>
+            {%  for error in form.image.errors %}
                 <span style="color: red;">{{ error }}</span>
             {% endfor %}
         </p>
