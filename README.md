@@ -9,6 +9,9 @@ https://5000-f92ac333-e2f4-4356-b046-e5e1c9cfbca1.ws-eu01.gitpod.io/
 
 ### UX
 
+![strategy plane](https://github.com/AnGherase/milestone-3/blob/master/images/strategy-plane.pdf)
+
+
 ### Project purpose
 
 The goal of MyFilms is to give users full access and control over all films. This means they can create films, view all films, update, and delete any film.
