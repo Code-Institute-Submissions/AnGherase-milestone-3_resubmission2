@@ -9,8 +9,14 @@ https://5000-f92ac333-e2f4-4356-b046-e5e1c9cfbca1.ws-eu01.gitpod.io/
 
 ### UX
 
-![strategy plane](https://github.com/AnGherase/milestone-3/blob/master/images/strategy-plane.pdf)
+Please see PDFs below for details:
+- [strategy plane](https://github.com/AnGherase/milestone-3/blob/master/images/strategy-plane.pdf)
+- [scope plane](https://github.com/AnGherase/milestone-3/blob/master/images/scope-plane.pdf)
+- [structure plane](https://github.com/AnGherase/milestone-3/blob/master/images/structure-plane.pdf)
 
+Wireframes, mobile and desktop:
+![mobile](https://github.com/AnGherase/milestone-3/blob/master/images/mobile-view.png)
+![desktop](https://github.com/AnGherase/milestone-3/blob/master/images/desktop-view.png)
 
 ### Project purpose
 
