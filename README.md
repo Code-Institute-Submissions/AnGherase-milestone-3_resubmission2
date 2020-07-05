@@ -4,8 +4,9 @@
 
 This project uses skills to build a Flask website that uses a MongoDB backend. The purpose of creating this platform was for 
 the users to view films and create, update and delete films. Users can also search for films that contain the searched 
-word in its tags, title or description. So in essence My Films is a website created to give users access and full control over films.  The platform features amazing colours and pictures from films. The project can be viewed at: 
-https://5000-f92ac333-e2f4-4356-b046-e5e1c9cfbca1.ws-eu01.gitpod.io/
+word in its tags, title or description. So in essence My Films is a website created to give users access and full control over films.  
+The platform features amazing colours and pictures from films. 
+[Website can be found here](https://films83mine.herokuapp.com/)
 
 ### UX
 
